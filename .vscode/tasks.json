@@ -14,7 +14,7 @@
           }
         },
         {
-            "label": "Run Server Testing",
+            "label": "Run All Server Testing",
             "type": "shell",
             "command": "cd server && npm run test",
             "group": "test"
